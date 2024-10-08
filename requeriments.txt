@@ -1,2 +1,0 @@
-pytelegrambotapi
-python-dotenv
