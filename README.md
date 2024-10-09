@@ -4,7 +4,7 @@
 
 A Telegram bot to scrape credit card numbers, stripe secret keys from telegram chats.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/yBDOp-?referralCode=qm7Ilt)
+![Deploy on Railway](https://railway.app/template/FHw3cD?referralCode=zAEXW9)
 
 SETUP :
 ```
